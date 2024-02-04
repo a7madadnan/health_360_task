@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:health_360_task/core/extentions/date_time_extension.dart';
 import 'package:health_360_task/features/notes/models/note_model.dart';
-import 'package:health_360_task/features/notes/providers/note_provider.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:solar_icons/solar_icons.dart';
 
